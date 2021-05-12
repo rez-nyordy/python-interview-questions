@@ -1,5 +1,5 @@
-# Question #5
-# If this code were run, what would the output to the console?
+# Question #8
+# If this code were run, what would the outcome be?
 
 cats = list(({
                  "breed": "Tortoise Shell",

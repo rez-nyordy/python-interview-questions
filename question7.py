@@ -1,4 +1,4 @@
-# Question #8
+# Question #7
 # If this code were run, what would the outcome be?
 
 cats = list(({
